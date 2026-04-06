@@ -349,7 +349,11 @@ Future Improvements
     Add real-time analytics
 
 Author
+
 Sundaravinayagam
+
 Data Analyst
+
 Python Developer
+
 TrendPulse — Data Pipeline Project
